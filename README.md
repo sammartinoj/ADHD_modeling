@@ -6,6 +6,8 @@ Includes data files from BabyLM 100M (https://babylm.github.io/) that has been a
   aochildes_frequent_interruptions.train - interruptions inserted within lines
   aochildes_less_frequent.train - interruptions every few lines
   aochildes.train - baseline (no interruptions)
+Download babyLM 100M data from  https://github.com/babylm/babylm.github.io/raw/main
+
 
 ### Training
 Includes ipynb for training a gpt-wee model
